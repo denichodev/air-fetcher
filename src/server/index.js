@@ -1,0 +1,1 @@
+import scrapper from './scrapper';
